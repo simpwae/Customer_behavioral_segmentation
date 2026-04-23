@@ -1,0 +1,5 @@
+Cluster,Recency_mean,Recency_median,Frequency_mean,Frequency_median,Monetary_mean,Monetary_median,Count,Pct,R_rank,F_rank,M_rank,Composite,Business_Label
+0,415.04,415.0,1.21,1.0,247.08,220.1,1571,31.4,4.0,4.0,4.0,12.0,Hibernating / Lost Customers
+1,34.65,29.0,2.22,2.0,613.04,534.96,982,19.6,1.0,3.0,3.0,7.0,Loyal / Regular Customers
+2,45.16,29.0,7.68,7.0,2179.76,2083.65,1138,22.8,2.0,1.0,1.0,4.0,Champions / High-Value Loyal
+3,301.48,288.0,3.5,3.0,1150.76,979.5,1310,26.2,3.0,2.0,2.0,7.0,At-Risk / Declining Customers

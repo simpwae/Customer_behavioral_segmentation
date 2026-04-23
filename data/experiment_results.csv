@@ -1,0 +1,13 @@
+Scaler,Outlier_Handling,K,Silhouette_Score,Inertia,N_Customers
+StandardScaler,IQR Removed,3,0.3219,5883.7,5001
+StandardScaler,IQR Removed,4,0.3624,4404.41,5001
+StandardScaler,IQR Removed,5,0.3105,3763.18,5001
+MinMaxScaler,IQR Removed,3,0.3826,291.58,5001
+MinMaxScaler,IQR Removed,4,0.3944,210.06,5001
+MinMaxScaler,IQR Removed,5,0.3462,179.63,5001
+RobustScaler,IQR Removed,3,0.3277,2202.5,5001
+RobustScaler,IQR Removed,4,0.3603,1674.85,5001
+RobustScaler,IQR Removed,5,0.3171,1409.74,5001
+StandardScaler,With Outliers,3,0.3477,6354.34,5878
+StandardScaler,With Outliers,4,0.365,4921.23,5878
+StandardScaler,With Outliers,5,0.3425,4099.11,5878
